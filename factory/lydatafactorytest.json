@@ -1,0 +1,9 @@
+{
+	"name": "lydatafactorytest",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c49bd4f-02c8-4f7a-ad25-d6d782f08c71",
+		"tenantId": "7d4ef27a-9192-44b3-b0de-e2d8e77a3e45"
+	}
+}
